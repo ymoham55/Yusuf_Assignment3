@@ -1,0 +1,15 @@
+C:\Users\Osnipeez\Yusuf_Assignment3\Assignment3Dotnet\bin\Debug\net8.0\Assignment3Dotnet.exe
+C:\Users\Osnipeez\Yusuf_Assignment3\Assignment3Dotnet\bin\Debug\net8.0\Assignment3Dotnet.deps.json
+C:\Users\Osnipeez\Yusuf_Assignment3\Assignment3Dotnet\bin\Debug\net8.0\Assignment3Dotnet.runtimeconfig.json
+C:\Users\Osnipeez\Yusuf_Assignment3\Assignment3Dotnet\bin\Debug\net8.0\Assignment3Dotnet.dll
+C:\Users\Osnipeez\Yusuf_Assignment3\Assignment3Dotnet\bin\Debug\net8.0\Assignment3Dotnet.pdb
+C:\Users\Osnipeez\Yusuf_Assignment3\Assignment3Dotnet\obj\Debug\net8.0\Assignment3Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osnipeez\Yusuf_Assignment3\Assignment3Dotnet\obj\Debug\net8.0\Assignment3Dotnet.AssemblyInfoInputs.cache
+C:\Users\Osnipeez\Yusuf_Assignment3\Assignment3Dotnet\obj\Debug\net8.0\Assignment3Dotnet.AssemblyInfo.cs
+C:\Users\Osnipeez\Yusuf_Assignment3\Assignment3Dotnet\obj\Debug\net8.0\Assignment3Dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Osnipeez\Yusuf_Assignment3\Assignment3Dotnet\obj\Debug\net8.0\Assignment3Dotnet.sourcelink.json
+C:\Users\Osnipeez\Yusuf_Assignment3\Assignment3Dotnet\obj\Debug\net8.0\Assignment3Dotnet.dll
+C:\Users\Osnipeez\Yusuf_Assignment3\Assignment3Dotnet\obj\Debug\net8.0\refint\Assignment3Dotnet.dll
+C:\Users\Osnipeez\Yusuf_Assignment3\Assignment3Dotnet\obj\Debug\net8.0\Assignment3Dotnet.pdb
+C:\Users\Osnipeez\Yusuf_Assignment3\Assignment3Dotnet\obj\Debug\net8.0\Assignment3Dotnet.genruntimeconfig.cache
+C:\Users\Osnipeez\Yusuf_Assignment3\Assignment3Dotnet\obj\Debug\net8.0\ref\Assignment3Dotnet.dll
